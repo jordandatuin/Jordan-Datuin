@@ -1,0 +1,66 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/employee-management-dashboard.png",
+            "title": "EMPLOYEE MANAGEMENT DASHBOARD",
+            "bodyText": "The Employee Management App streamlines the storage and retrieval of essential employee information. It offers a user-friendly interface for managing personal details, addresses, salary roles, and hire dates.",            
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jordandatuin/Project-4-Employee-Management-Dashboard.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://project-4-employee-management-dashboard.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Firebase",
+                "JavaScript",
+                "BootStrap",
+                "Ant-Design"
+            ]
+        },
+        {
+            "image" : "images/projects/weather-application.png",
+            "title": "WEATHER APPLICATION",
+            "bodyText": "The Weather Application is an API-driven website. It utilizes a combination of HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and informative weather-related web application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jordandatuin/Project-3-API-Driven-Website.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://project-3-api-driven-website.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "Firebase",
+                "JavaScript",
+                "Css",
+                "BootStrap"
+
+            ]
+        },
+        {
+            "image" : "images/projects/twitalk.png",
+            "title": "TWITALK",
+            "bodyText": "The TWITALK is a simplified version of Twitter, allowing users to post tweets, follow others, and engage in social interactions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                "Firebase",
+                "JavaScript",
+                "Css",
+                "BootStrap",
+                "Ant-Design"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "SAP CONCUR | Makati City",
+            "subtitle": "ASSOCIATE CONSULTANT (EXPENSE AUDITOR & INVOICE CAPTURE)",
+            "workDescription": [
+                "Reviews end-user receipts and expense reports at the first level to ensure accurate financial reimbursement in line with client requirements.",
+                "Reviews and suggests needed corrections and additional requirements for timely completion of receipts and expense reports",
+                "Effectively process receipts and expense reports, promptly reporting issues to the supervisor."
+            ],
+            "dateText": "Jun 2019 – May 2023"
+        },
+        {
+            "title": "Superants Inc. | Makati City",
+            "subtitle": "Payment Officer Finance Department",
+            "workDescription": [
+                "Performing administrative duties such as data entry, documentation, and maintaining customer records. This includes updating player information, processing withdrawals and deposits, and managing account balances."
+            ],
+            "dateText": "Aug 2017 – Feb 2019"
+        }
+    ]
+}

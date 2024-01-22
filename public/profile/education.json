@@ -1,0 +1,22 @@
+{
+    "education":
+    [
+
+        {
+            "title": "Sept 2023 - Jan 2024",
+            "cardTitle": "BASE404 BOOTCAMP",
+            "cardSubtitle":"Web Development Bootcamp",
+            "icon" : {
+                "src": "images/education/bootcamp-logo.png"
+            }
+        },
+        {
+            "title": "Jun 2013 - May 2017",
+            "cardTitle": "STI COLLEGE ORTIGAS - CAINTA",
+            "cardSubtitle":"Bachelor of Science in Information Technology",
+            "icon" : {
+                "src": "images/education/school-logo.png"
+            }
+        }
+    ]
+}

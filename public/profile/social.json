@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/jordan-datuin-a2aba4285/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/jordandatuin"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:jordan.datuin22@gmail.com"
+        }
+    ]
+}
