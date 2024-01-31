@@ -51,7 +51,11 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/jordandatuin/Project-5-Social-Media-Application.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://project-5-social-media-application.vercel.app/login"
                 }
             ],
             "tags" : [
@@ -60,6 +64,27 @@
                 "Css",
                 "BootStrap",
                 "Ant-Design"
+            ]
+        },
+        {
+            "image" : "images/projects/casa-de-leon.png",
+            "title": "CASA DE LEON",
+            "bodyText": "The website consists of several pages, each serving a specific purpose, from introducing the home and gallery to providing information on rates, location, and how to inquire about services.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jordandatuin/casadeleon.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://casadeleon.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Css",
+                "BootStrap",
+                "Embla Carousel"
             ]
         }
     ]
